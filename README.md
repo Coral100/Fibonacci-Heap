@@ -1,1 +1,1 @@
-The project was programmed as part of Data Structure course,in my my studies at Tel Aviv University. This is my implemetation for Fibonacci heap and its typical operations such as insert, decrease key, delete min.
+The project was programmed as part of Data Structure course,in my studies at Tel Aviv University. This is my implemetation for Fibonacci heap and its typical operations such as insert, decrease key, delete min.
